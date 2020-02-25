@@ -10,8 +10,8 @@ import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
 
-import androidx.annotation.Nullable;
-import androidx.core.view.ViewCompat;
+import android.support.annotation.Nullable;
+import android.support.v4.view.ViewCompat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
